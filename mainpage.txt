@@ -1,0 +1,9 @@
+<html>
+	<body>
+	<?PHP
+		echo "<h1>Export Booking Excel to Coprar Converter</h1>";
+		
+		echo "<br>Receiver Code:<br>"
+	?>
+	</body>
+	</html>
